@@ -44,10 +44,10 @@ You can find the gripper model here:
 ### Run the Can Lift Task
 
 ```bash
-/home/leojellypc/anaconda3/envs/robosuite-test/bin/python /home/leojellypc/robosuite/robosuite/lift/main_can.py Can
+~/anaconda3/envs/robosuite-test/bin/python ~/robosuite/robosuite/lift/main_can.py Can
 ```
 
 ### Run the Milk Reorientation Task
 ```bash
-/home/leojellypc/anaconda3/envs/robosuite-test/bin/python /home/leojellypc/robosuite/robosuite/project/reorientation/main_osc_milk.py Milk
+~/anaconda3/envs/robosuite-test/bin/python ~/robosuite/robosuite/project/reorientation/main_osc_milk.py Milk
 ```
