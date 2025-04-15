@@ -26,7 +26,7 @@ Two custom environments were developed specifically for the manipulation tasks i
 - **Can Lift Task**  
   File: `robosuite/project/lift/two_arm_can_lift.py`
 
-These environments simulate dual-arm manipulation with task-specific dynamics and constraints.
+These environments simulate dual-arm manipulation with task-specific dynamics and constraints and robot initialization parameters.
 
 ---
 
