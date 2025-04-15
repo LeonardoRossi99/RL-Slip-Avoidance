@@ -45,3 +45,9 @@ You can find the gripper model here:
 
 ```bash
 /home/leojellypc/anaconda3/envs/robosuite-test/bin/python /home/leojellypc/robosuite/robosuite/lift/main_can.py Can
+```
+
+### Run the Milk Reorientation Task
+```bash
+/home/leojellypc/anaconda3/envs/robosuite-test/bin/python /home/leojellypc/robosuite/robosuite/project/reorientation/main_osc_milk.py MILK
+```
