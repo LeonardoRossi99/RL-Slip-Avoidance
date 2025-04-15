@@ -10,7 +10,7 @@ The project builds on the [**robosuite** framework](https://github.com/ARISE-Ini
 
 ## Installation
 
-The project uses a Conda environment with Robosuite installed according to the official documentation:
+The project uses a Conda environment, named robosuite-test, with Robosuite installed according to the official documentation:
 
 👉 [Robosuite Installation Guide](https://robosuite.ai/docs/installation.html)
 
