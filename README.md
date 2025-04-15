@@ -1,4 +1,4 @@
-# Model-Free Reinforcement Learning for Robust Robotic Manipulation
+# Model-Free Reinforcement Learning Robust To Irreversible Events in Robotic Manipulation
 
 ## Project Overview
 
